@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130866589158",
+    "project_id": "chakotlin",
+    "storage_bucket": "chakotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130866589158:android:bd7f058eb775b8ffa9ba27",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC453KXWckiLAxvbDV8aqabMEsxtbgS8PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
